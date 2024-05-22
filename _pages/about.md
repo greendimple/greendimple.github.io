@@ -10,4 +10,4 @@ I'm a third year undergraduate student from School of Computer Science, [Univers
 
 You can find my CV here: [cv](../assets/cv.pdf).
 
-[Email](mailto:sk6@mail.ustc.edu.cn) / [Github](https://github.com/grrendimple)
+[Email](mailto:sk6@mail.ustc.edu.cn) / [Github](https://github.com/greendimple)
