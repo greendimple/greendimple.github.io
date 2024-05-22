@@ -11,4 +11,3 @@ I'm a third year undergraduate student from School of Computer Science, [Univers
 You can find my CV here: [cv](../assets/cv.pdf).
 
 Email: sk6@mail.ustc.edu.cn, sikefu741@gmail.com
-QQ:2826083593
