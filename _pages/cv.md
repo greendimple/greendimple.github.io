@@ -27,8 +27,8 @@ skills
 
 awards
 ======
-* Excellent Student Scholarship (Bronze Award) 2023
-* Excellent Student Scholarship (Bronze Award) 2022
+* Excellent Student Scholarship (Bronze Award) of USTC 2023
+* Excellent Student Scholarship (Bronze Award) of USTC 2022
 
 projects
 ======
@@ -39,14 +39,14 @@ projects
 
 Publications
 ======
-no publication yet
-  <!-- <ul>{% for post in site.publications reversed %}
+no publication yet..
+<!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
 hobbies
 ======
-reading, painting and traveling ^_^
+reading, painting, traveling and so on ^_^
 
 <!--Talks
 ======
