@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "PPT"
-permalink: /cv/
+title: "PPTs"
+permalink: /ppt/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-PPTs
-======
 * [week 1](../files/summer%20intern%20PPT/week1.pdf)
 * [week 2](../files/summer%20intern%20PPT/week2.pdf)
 
