@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Sike Fu(付斯珂)"
   pronouns         : "she/her"  
-  bio              : "wanderer"
+  bio              : # "wanderer"
   location         : "Penn State"
   employer         : # "USTC"
   uri              : # URL
