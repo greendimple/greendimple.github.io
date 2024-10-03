@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "PPT"
+permalink: /PPT/
 author_profile: true
 redirect_from:
   - /resume
@@ -17,6 +17,7 @@ PPTs
 ======
 * [week 1](../files/summer%20intern%20PPT/week1.pdf)
 * [week 2](../files/summer%20intern%20PPT/week2.pdf)
+
 <!-- 
 Skills
 ======
@@ -47,4 +48,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams 
+-->
