@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in University of Science and Technology of China, 2021-2025
-
 PPTs
 ======
 * [week 1](../files/summer%20intern%20PPT/week1.pdf)
@@ -49,4 +45,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams 
--->
+ -->
